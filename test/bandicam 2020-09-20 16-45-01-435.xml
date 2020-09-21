@@ -1,0 +1,38 @@
+<annotation>
+	<folder>çaça-1</folder>
+	<filename>bandicam 2020-09-20 16-45-01-435.jpg</filename>
+	<path>C:\Users\ÖNDER\Desktop\çaça-1\bandicam 2020-09-20 16-45-01-435.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>116</ymin>
+			<xmax>208</xmax>
+			<ymax>192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>submarine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>132</ymin>
+			<xmax>144</xmax>
+			<ymax>155</ymax>
+		</bndbox>
+	</object>
+</annotation>
