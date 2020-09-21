@@ -1,0 +1,38 @@
+<annotation>
+	<folder>berk</folder>
+	<filename>bandicam 2020-09-20 15-57-38-182.jpg</filename>
+	<path>C:\Users\pc\Desktop\berk\bandicam 2020-09-20 15-57-38-182.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>81</ymin>
+			<xmax>262</xmax>
+			<ymax>225</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>submarine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>145</xmin>
+			<ymin>129</ymin>
+			<xmax>190</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+</annotation>

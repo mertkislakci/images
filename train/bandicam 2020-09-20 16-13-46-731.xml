@@ -1,0 +1,26 @@
+<annotation>
+	<folder>ahmet</folder>
+	<filename>bandicam 2020-09-20 16-13-46-731.jpg</filename>
+	<path>C:\Users\Lenovo\Desktop\ahmet\bandicam 2020-09-20 16-13-46-731.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>submarine</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>123</xmin>
+			<ymin>28</ymin>
+			<xmax>187</xmax>
+			<ymax>223</ymax>
+		</bndbox>
+	</object>
+</annotation>

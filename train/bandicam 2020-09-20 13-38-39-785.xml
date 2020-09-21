@@ -1,0 +1,25 @@
+<annotation>
+	<folder>circle</folder>
+	<filename>bandicam 2020-09-20 13-38-39-785.jpg</filename>
+	<path>/circle/bandicam 2020-09-20 13-38-39-785.jpg</path>
+	<source>
+		<database>Unspecified</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<object>
+		<name>circle</name>
+		<pose>Unspecified</pose>
+		<truncated>Unspecified</truncated>
+		<difficult>Unspecified</difficult>
+		<bndbox>
+			<xmin>156</xmin>
+			<ymin>72</ymin>
+			<xmax>268</xmax>
+			<ymax>217</ymax>
+		</bndbox>
+	</object>
+</annotation>
